@@ -25,9 +25,7 @@ import com.linjinzhong.musicplayer.Utils.MyApplication;
 
 /**
  * 主界面，TabHost 三个标签：我的音乐，播放列表，所有歌曲 底部一个正在播放音乐的textView，点击进入正在播放界面
- * 
  * @author lin_j
- * 
  */
 public class MainActivity extends TabActivity {
 
