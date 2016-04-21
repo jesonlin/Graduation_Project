@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:contentDescription="@string/text_deleteMusic"
+        android:id="@+id/button_delete"
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:background="#00000000"
+        android:src="@drawable/delete"/>
+
+    <TextView
+        android:id="@+id/text_playMusicName"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:layout_toLeftOf="@id/button_delete"
+        android:paddingLeft="15dp"
+        android:gravity="center_vertical"
+        android:background="#00000000"
+        android:textColor="@color/textColor"
+        android:textSize="16sp" />
+
+</RelativeLayout>

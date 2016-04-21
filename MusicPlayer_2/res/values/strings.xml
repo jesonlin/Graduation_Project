@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicPlayer</string>
+    <string name="text_misicName">歌曲名称</string>
+    <string name="text_myMusic">我的音乐</string>
+    <string name="text_allMusic">全部音乐</string>
+    <string name="text_playList">播放列表</string>
+    <string name="text_footer">正在播放的音乐</string>
+    <string name="text_deletePlayList">清空列表</string>
+    <string name="text_deleteMusic">刪除歌曲</string>
+    <string name="text_error">歌曲不存在，请尝试刷新或检查SD卡</string>
+    <string name="text_mymusic">我的音乐</string>
+    <string name="text_playlist">播放列表</string>
+    <string name="text_allmusic">所有歌曲</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_music_list">MyMusicListActivity</string>
+    <string name="title_activity_all_music_list">AllMusicListActivity</string>
+    <string name="title_activity_play_music_list">PlayMusicListActivity</string>
+    <string name="title_activity_play_music">PlayMusicActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
