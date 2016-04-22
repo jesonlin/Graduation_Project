@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="list_bg">#EEEEEE</color>
+    <color name="textColor">#37c2f6</color>
+    <color name="footer_bg">#4595e9</color>
+    <color name="bg_no">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#37c2f6</color>
+    <color name="gray_text">#555555</color>
+    
+</resources>
