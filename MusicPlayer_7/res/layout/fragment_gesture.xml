@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 手势检测视图的fragment，背景默认为透明，这样把它覆盖到歌词的视图中去也会显示底层的歌词 -->
+
+</LinearLayout>
